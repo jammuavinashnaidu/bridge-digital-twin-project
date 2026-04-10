@@ -91,9 +91,3 @@ The system generates:
 - Matplotlib  
 
 ---
-
-## ▶️ How to Run
-
-1. Install required libraries:
-```bash
-pip install matplotlib numpy
