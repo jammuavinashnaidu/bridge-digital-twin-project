@@ -19,11 +19,13 @@ This work is inspired by recent research in lifecycle engineering and smart infr
 ---
 
 ## 🧠 Key Concepts Used
-- Digital Twin Technology  
+- Digital Twin Technology
 - Life Cycle Cost Analysis (LCCA)  
 - Carbon Footprint Assessment  
 - Structural Health Monitoring  
-- Predictive Maintenance  
+- Predictive Maintenance
+- Life Cycle Assessment (LCA)
+- Building Information Modelling(BIM)
 
 ---
 
