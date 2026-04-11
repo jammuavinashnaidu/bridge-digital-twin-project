@@ -20,7 +20,7 @@ This work is inspired by recent research in lifecycle engineering and smart infr
 
 ## 🧠 Key Concepts Used
 - Digital Twin Technology  
-- Lifecycle Cost Analysis (LCCA)  
+- Life Cycle Assessment (LCCA)  
 - Carbon Footprint Assessment  
 - Structural Health Monitoring  
 - Predictive Maintenance  
