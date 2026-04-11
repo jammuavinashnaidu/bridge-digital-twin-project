@@ -80,7 +80,7 @@ The system generates:
 
 ## 📊 Output
 - Terminal-based detailed reports  
-- Graphical dashboards (PNG files)  
+- Graphical dashboards 
 - Comparative analysis of multiple bridges  
 
 ---
