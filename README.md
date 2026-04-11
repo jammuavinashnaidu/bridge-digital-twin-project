@@ -20,7 +20,7 @@ This work is inspired by recent research in lifecycle engineering and smart infr
 
 ## 🧠 Key Concepts Used
 - Digital Twin Technology  
-- Life Cycle Assessment (LCCA)  
+- Life Cycle Cost Analysis (LCCA)  
 - Carbon Footprint Assessment  
 - Structural Health Monitoring  
 - Predictive Maintenance  
@@ -37,7 +37,7 @@ The system creates a virtual representation of bridges including:
 
 ---
 
-### 2. Lifecycle Cost Analysis
+### 2. Life Cycle Cost Analysis
 The model computes:
 - Construction cost  
 - Maintenance cost  
