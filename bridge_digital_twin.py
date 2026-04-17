@@ -506,6 +506,3 @@ if __name__ == "__main__":
 
     print("\n" + "="*65)
     print("  SIMULATION COMPLETE!")
-    print("  Charts saved in the 'output_charts' folder.")
-    print("  Upload these charts + this code to your GitHub repository.")
-    print("="*65 + "\n")
