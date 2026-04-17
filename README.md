@@ -87,7 +87,7 @@ The system generates:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Libraries Used
 - Python  
 - NumPy  
 - Matplotlib  
